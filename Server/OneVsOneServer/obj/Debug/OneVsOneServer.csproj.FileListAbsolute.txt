@@ -1,0 +1,14 @@
+C:\Users\user\Downloads\소스코드\FreeNet_server_sourcecode\OneVsOneServer\OneVsOneServer\bin\Debug\OneVsOneServer.exe.config
+C:\Users\user\Downloads\소스코드\FreeNet_server_sourcecode\OneVsOneServer\OneVsOneServer\bin\Debug\OneVsOneServer.exe
+C:\Users\user\Downloads\소스코드\FreeNet_server_sourcecode\OneVsOneServer\OneVsOneServer\bin\Debug\OneVsOneServer.pdb
+C:\Users\user\Downloads\소스코드\FreeNet_server_sourcecode\OneVsOneServer\OneVsOneServer\obj\Debug\OneVsOneServer.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\소스코드\FreeNet_server_sourcecode\OneVsOneServer\OneVsOneServer\obj\Debug\OneVsOneServer.exe
+C:\Users\user\Downloads\소스코드\FreeNet_server_sourcecode\OneVsOneServer\OneVsOneServer\obj\Debug\OneVsOneServer.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\OneVsOneServer\OneVsOneServer\bin\Debug\OneVsOneServer.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\OneVsOneServer\OneVsOneServer\obj\Debug\OneVsOneServer.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\OneVsOneServer\OneVsOneServer\obj\Debug\OneVsOneServer.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\OneVsOneServer\OneVsOneServer\bin\Debug\OneVsOneServer.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\OneVsOneServer\OneVsOneServer\bin\Debug\OneVsOneServer.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\OneVsOneServer\OneVsOneServer\bin\Debug\MyNet.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\OneVsOneServer\OneVsOneServer\bin\Debug\MyNet.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\OneVsOneServer\OneVsOneServer\obj\Debug\OneVsOneServer.csprojResolveAssemblyReference.cache

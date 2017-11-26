@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5eb0f118eb4a92a42a04ce6dbf98e3c5
+timeCreated: 1507610372
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hattori Hanzo
+  fontNames:
+  - Hattori Hanzo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4e390db82affd5f408a4b609048065a2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
