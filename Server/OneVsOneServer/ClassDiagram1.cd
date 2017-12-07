@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OneVsOneServer.GameLogic.GameManager">
+    <Position X="4.25" Y="10.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AASAAAEAAAAAAAAABQAAAAAAQAAAEAAQAAAAABAAAAA=</HashCode>
+      <FileName>GameLogic\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OneVsOneServer.GameLogic.Game" BaseTypeListCollapsed="true">
+    <Position X="6" Y="10.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="OneVsOneServer.GameLogic.Game.STATE" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameLogic\InGame\Game.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>CAQQAAQBAiAEAAQABAAAAIQAAACAQAAEAAQoEQgEqQA=</HashCode>
+      <FileName>GameLogic\InGame\Game.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OneVsOneServer.GameLogic.GameObject">
+    <Position X="3.5" Y="2.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQBACAAAAAqAAABAACIBAwAAACEEAAgIAggIJgAAgA=</HashCode>
+      <FileName>GameLogic\InGame\GameObject\GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OneVsOneServer.GameLogic.LoginUser">
+    <Position X="15.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAQQAAEAAAAAAAAAAAAAAAAAAIAAAAABQA=</HashCode>
+      <FileName>GameLogic\Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OneVsOneServer.GameLogic.Login" BaseTypeListCollapsed="true">
+    <Position X="13.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQQAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameLogic\Login.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OneVsOneServer.GameLogic.MatchmakeUser">
+    <Position X="19" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAQAAAIAAAAAAAIAAAACAAAAAEAAAABBQg=</HashCode>
+      <FileName>GameLogic\Matchmake.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OneVsOneServer.GameLogic.MatchWaitingGroup">
+    <Position X="20.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAACAAAAAAAAAAAAAAAAAAEAAAABAAAAEAAAAAAAA=</HashCode>
+      <FileName>GameLogic\Matchmake.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OneVsOneServer.GameLogic.Matchmake" BaseTypeListCollapsed="true">
+    <Position X="17.25" Y="4.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>gEAAAQQAAEAAgAMEAAAEAACIQgAGAAEAAABCAAAEAIE=</HashCode>
+      <FileName>GameLogic\Matchmake.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OneVsOneServer.GameLogic.InGame.Component.Bullet" Collapsed="true">
+    <Position X="5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQgAAAAAAAAIAAAAAAAIAIAABAIAYAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameLogic\InGame\Component\Bullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OneVsOneServer.GameLogic.InGame.Component.IComponent">
+    <Position X="5.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAAAAIAAAAAAAgBAgAACAAAAAIAgAAAAAACAA=</HashCode>
+      <FileName>GameLogic\InGame\Component\Component.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OneVsOneServer.GameLogic.InGame.Component.UserCondition" Collapsed="true">
+    <Position X="0.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAACAEAAAABAgAAEAEAAABCAAAAAAAQJAAAAAQAA=</HashCode>
+      <FileName>GameLogic\InGame\Component\UserCondition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OneVsOneServer.GameLogic.InGame.Component.UserInputProcess" Collapsed="true">
+    <Position X="2.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAACAACAAQgQAkBIAAAAjAAIBwAAAQIAAAAAAA=</HashCode>
+      <FileName>GameLogic\InGame\Component\UserInputProcess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OneVsOneServer.GameLogic.InGame.GameObjectManager">
+    <Position X="1.75" Y="2.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="OneVsOneServer.GameLogic.InGame.GameObjectManager.TAG" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameLogic\InGame\GameObject\GameObjectManager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAgAAAIACAABAAAAAAAAAgAAAQIAAAAAAAAAKAAAAA=</HashCode>
+      <FileName>GameLogic\InGame\GameObject\GameObjectManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OneVsOneServer.GameLogic.InGame.ColliderArithmetic">
+    <Position X="8.75" Y="2.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="OneVsOneServer.GameLogic.InGame.ColliderArithmetic.Line2D" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameLogic\InGame\GameUtility\ColliderArithmetic.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="OneVsOneServer.GameLogic.InGame.ColliderArithmetic.Triangle2D" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameLogic\InGame\GameUtility\ColliderArithmetic.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="OneVsOneServer.GameLogic.InGame.ColliderArithmetic.Rectangle2D" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameLogic\InGame\GameUtility\ColliderArithmetic.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="OneVsOneServer.GameLogic.InGame.ColliderArithmetic.Circle2D" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameLogic\InGame\GameUtility\ColliderArithmetic.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameLogic\InGame\GameUtility\ColliderArithmetic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OneVsOneServer.GameLogic.InGame.Circle2DCollider">
+    <Position X="7" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAACkACAAAAIAAAAAACAAAAAgAAAAIAAAAABAACAA=</HashCode>
+      <FileName>GameLogic\InGame\GameUtility\ColliderManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OneVsOneServer.GameLogic.InGame.ColliderManager">
+    <Position X="10.5" Y="2.75" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="OneVsOneServer.GameLogic.InGame.ColliderManager.CollideCallback" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameLogic\InGame\GameUtility\ColliderManager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>BAQAAAACAACAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>GameLogic\InGame\GameUtility\ColliderManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OneVsOneServer.GameLogic.InGame.GameTimer" Collapsed="true">
+    <Position X="13.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACEAAAgAAAAAAAAAAAAAAAAAAAAAAAkAAQA=</HashCode>
+      <FileName>GameLogic\InGame\GameUtility\GameTimer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OneVsOneServer.GameLogic.InGame.Scoreboard" Collapsed="true">
+    <Position X="15" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAACAAAAABAQAAAQAAAAAgAAAAAAAAQA=</HashCode>
+      <FileName>GameLogic\InGame\GameUtility\Scoreboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OneVsOneServer.GameLogic.InGame.UserInput" Collapsed="true">
+    <Position X="16.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAEAAAAAAAAAAAAAAAAAAQAAAAAAAABAEAA=</HashCode>
+      <FileName>GameLogic\InGame\GameUtility\UserSession.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OneVsOneServer.GameLogic.InGame.UserSession" Collapsed="true">
+    <Position X="13" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEEAAAAAAQAAAAAAAAEAAAAAAABBAAAAAAAAAABQA=</HashCode>
+      <FileName>GameLogic\InGame\GameUtility\UserSession.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OneVsOneServer.GameLogic.InGame.UserSessionMediator" Collapsed="true">
+    <Position X="13" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAACAIAAAAAAABAAAAAAAAQAAAACAAAAABCA=</HashCode>
+      <FileName>GameLogic\InGame\GameUtility\UserSessionMediator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OneVsOneServer.Program" Collapsed="true">
+    <Position X="13.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
