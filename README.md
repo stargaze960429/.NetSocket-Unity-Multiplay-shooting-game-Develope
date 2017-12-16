@@ -1,6 +1,11 @@
 # .NetSocket-Unity-Multiplay-shooting-game-Develope
 .Net 소켓과 유니티를 이용한 멀티플레이 슈팅 게임 개발
 
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/azxoHGrJgw4/0.jpg)](https://www.youtube.com/watch?v=azxoHGrJgw4)
+
+이미지를 클릭하시면 게임 영상(Youtube)으로 연결됩니다.
+
 # 설명
 
 현재 개발중인 네트워크 게임입니다.
